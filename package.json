@@ -1,0 +1,25 @@
+{
+  "name": "sample_mernapp",
+  "version": "1.0.0",
+  "description": "hrmanagement",
+  "homepage": "https://github.com/uday-CSE-debug/sample_mernapp#readme",
+  "bugs": {
+    "url": "https://github.com/uday-CSE-debug/sample_mernapp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uday-CSE-debug/sample_mernapp.git"
+  },
+  "license": "ISC",
+  "author": "uday",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.6.0"
+  }
+}
